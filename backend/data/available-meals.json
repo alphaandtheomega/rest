@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m1",
+    "name": "Mac & Peynir",
+    "price": "270.99",
+    "description": "Kremalı çedar peyniriyle harmanlanmış mükemmel pişmiş makarna, üzerine çıtır ekmek kırıntıları eklenmiş bir lezzet",
+    "image": "images/mac-and-cheese.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Margherita Pizza",
+    "price": "210.99",
+    "description": "Taze mozzarella, domates ve fesleğen ile hazırlanan, ince ve çıtır hamurlu klasik bir pizza.",
+    "image": "images/margherita-pizza.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Sezar Salata",
+    "price": "150.99",
+    "description": "Sezar sosuyla harmanlanmış romaine marulu, üzerine kruton ve parmesan dilimleri eklenmiş bir salata.",
+    "image": "images/caesar-salad.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Spagetti Carbonara",
+    "price": "270.99",
+    "description": "Al dente spagetti, yumurta sarısı, pecorino peyniri, pancetta ve karabiber ile hazırlanan kremalı sosla servis edilir.",
+    "image": "images/spaghetti-carbonara.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Vejetaryen Burger",
+    "price": "240.99",
+    "description": "Tam tahıllı ekmek arasına konmuş lezzetli sebze köftesi, marul, domates ve özel bir sos ile servis edilir.",
+    "image": "images/veggie-burger.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Izgara Tavuklu Sandviç",
+    "price": "300.99",
+    "description": "Izgara tavuk göğsü, avokado, pastırma, marul ve ballı hardal ile tost ekmeği arasında servis edilir.",
+    "image": "images/grilled-chicken-sandwich.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Biftek ve Patates",
+    "price": "410.99",
+    "description": "İsteğe göre pişirilmiş sulu biftek, çıtır altın patates kızartması ve otlu tereyağı ile servis edilir.",
+    "image": "images/steak-frites.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Sushi Tabağı",
+    "price": "405.99",
+    "description": "California, Acılı Ton Balığı ve Yılan Balığı Avokado roll çeşitlerinden oluşan taze sushi tabağı.",
+    "image": "images/sushi-roll-platter.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Tavuk Köri",
+    "price": "370.99",
+    "description": "Aromatik ve zengin köri sosunda pişirilmiş yumuşak tavuk parçaları, basmati pirinci ile servis edilir.",
+    "image": "images/chicken-curry.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Vegan Buddha Kasesi",
+    "price": "325.99",
+    "description": "Kinoa, fırınlanmış sebzeler, avokado ve tahin sosu ile dolu doyurucu bir kase.",
+    "image": "images/vegan-buddha-bowl.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Deniz Mahsullü Paella",
+    "price": "510.99",
+    "description": "Safran aromalı pirinç, karides, midye ve chorizo içeren geleneksel bir İspanyol lezzeti.",
+    "image": "images/seafood-paella.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Pankek Tabağı",
+    "price": "240.99",
+    "description": "Üst üste dizilmiş yumuşak pankekler, akçaağaç şurubu ve taze meyveler ile süslenmiş.",
+    "image": "images/pancake-stack.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Miso Ramen",
+    "price": "320.99",
+    "description": "Miso bazlı sıcak ramen çorbası, yumuşak pişmiş dana eti, haşlanmış yumurta ve yeşil soğan ile servis edilir.",
+    "image": "images/miso-ramen.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Etli Taco",
+    "price": "240.99",
+    "description": "Üç yumuşak tortilla, baharatlı dana eti, taze salsa, peynir ve ekşi krema ile doldurulmuştur.",
+    "image": "images/beef-tacos.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Çikolatalı Brownie",
+    "price": "150.99",
+    "description": "Yoğun ve yumuşak brownie, vanilyalı dondurma ve çikolata sosu ile servis edilir.",
+    "image": "images/chocolate-brownie.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Istakoz Çorbası",
+    "price": "360.99",
+    "description": "Istakoz suyu, aromatik sebzeler ve bir miktar brendi ile yapılan kremsi bir çorba.",
+    "image": "images/lobster-bisque.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Mantarlı Risotto",
+    "price": "290.99",
+    "description": "Arborio pirinci, çeşitli yabani mantarlar ile pişirilmiş ve parmesan ile tamamlanmıştır.",
+    "image": "images/mushroom-risotto.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Patlıcan Parmesan",
+    "price": "260.99",
+    "description": "Kat kat dizilmiş pane patlıcan, marinara sosu, erimiş mozzarella ve parmesan peyniri ile hazırlanır.",
+    "image": "images/eggplant-parmesan.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Limonlu Cheesecake",
+    "price": "150",
+    "description": "Ekşi limon aromalı kremsi cheesecake, kıtır bisküvi tabanı üzerinde servis edilir.",
+    "image": "images/lemon-cheesecake.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Falafel Dürüm",
+    "price": "180.99",
+    "description": "Crispy falafeller, sıcak pita ekmeğinde marul, domates ve tahin sosu ile sarılmıştır.",
+    "image": "images/falafel-wrap.jpg"
+  }
+]
